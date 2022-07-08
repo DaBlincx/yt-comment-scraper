@@ -1,0 +1,20 @@
+[
+    {
+        "label": "typer",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "typer",
+        "description": "typer",
+        "detail": "typer",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def main(name: str, years: int):\n    typer.echo(f\"Hello {name},\\nYou are {years} years old.\")\nif __name__ == \"__main__\":\n    typer.run(main)",
+        "detail": "main",
+        "documentation": {}
+    }
+]

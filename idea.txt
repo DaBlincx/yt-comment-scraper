@@ -1,3 +1,3 @@
-yt video comments getter
+yt  comments scraper
 
 maybe with web ui
